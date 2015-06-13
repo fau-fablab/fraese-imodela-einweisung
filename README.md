@@ -15,6 +15,7 @@ git clone --recursive git@github.com:fau-fablab/fraese-imodela-einweisung.git
 Technische Details zum Buildserver siehe auf macgyver `/home/buildserver/README`
 
 [![Build Status](https://user.fablab.fau.de/~buildserver/fraese-imodela-einweisung/status.svg)](https://user.fablab.fau.de/~buildserver/fraese-imodela-einweisung/)
+[![TODOs](https://user.fablab.fau.de/~buildserver/fraese-imodela-einweisung/status-todos.svg)](https://user.fablab.fau.de/~buildserver/fraese-imodela-einweisung/)
 
 Lizenz
 ------
