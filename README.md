@@ -3,7 +3,7 @@ Fräse iModela Einweisung
 
 Einweisung des [FAU FabLab](https://fablab.fau.de) in die [Mini CNC Fräse Roland iModela](https://fablab.fau.de/tool/cnc-fraese-roland).
 
-Die neueste Version der Einweisung aus [github](https://github.com/fau-fablab/fraese-imodela-einweisung) ist als PDF unter https://user.fablab.fau.de/~buildserver/fraese-imodela-einweisung/Einweisung_Fräse-iModela.pdf abrufbar.
+Die neueste Version der Einweisung aus [github](https://github.com/fau-fablab/fraese-imodela-einweisung) ist als PDF unter https://user.fablab.fau.de/~buildserver/fraese-imodela-einweisung/Einweisung_Fraese-iModela.pdf abrufbar.
 
 auschecken
 ----------

@@ -1,2 +1,2 @@
-TARGET=Einweisung_Fräse-iModela
+TARGET=Einweisung_Fraese-iModela
 include fablab-document/Makefile.include
