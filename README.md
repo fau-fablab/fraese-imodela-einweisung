@@ -3,7 +3,7 @@ Fräse iModela Einweisung
 
 Einweisung des [FAU FabLab](https://fablab.fau.de) in die [Mini CNC Fräse Roland iModela](https://fablab.fau.de/tool/cnc-fraese-roland).
 
-Die neueste Version der Einweisung aus [github](https://github.com/fau-fablab/fraese-imodela-einweisung) ist als PDF unter https://user.fablab.fau.de/~buildserver/fraese-imodela-einweisung/Einweisung_Fraese-iModela.pdf abrufbar.
+Die neueste Version der Einweisung aus [github](https://github.com/fau-fablab/fraese-imodela-einweisung) ist als PDF unter https://brain.fablab.fau.de/build/fraese-imodela-einweisung/Einweisung_Fraese-iModela.pdf abrufbar.
 
 auschecken
 ----------
@@ -14,8 +14,8 @@ git clone --recursive git@github.com:fau-fablab/fraese-imodela-einweisung.git
 
 Technische Details zum Buildserver siehe auf macgyver `/home/buildserver/README`
 
-[![Build Status](https://user.fablab.fau.de/~buildserver/fraese-imodela-einweisung/status.svg)](https://user.fablab.fau.de/~buildserver/fraese-imodela-einweisung/)
-[![TODOs](https://user.fablab.fau.de/~buildserver/fraese-imodela-einweisung/status-todos.svg)](https://user.fablab.fau.de/~buildserver/fraese-imodela-einweisung/)
+[![Build Status](https://brain.fablab.fau.de/build/fraese-imodela-einweisung/status.svg)](https://brain.fablab.fau.de/build/fraese-imodela-einweisung/)
+[![TODOs](https://brain.fablab.fau.de/build/fraese-imodela-einweisung/status-todos.svg)](https://brain.fablab.fau.de/build/fraese-imodela-einweisung/)
 
 Lizenz
 ------
